@@ -1,0 +1,4 @@
+Aquesta aplicació ha estat creada per Adrián Valverde Ambrosio com a forma pràctica del seu TR.
+Per a executar el programa, pulsar dues vegades l'arxiu "Part_practica_TR_Adrian_Valverde_Ambrosio.exe".
+Per a que funcioni l'aplicació ha d'estar instalada també la base de dades i l'icone a la mateixa carpeta.
+També estan adjuntats els dos codis per a la creació de l'app i de la base de dades.
